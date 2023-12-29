@@ -31,6 +31,7 @@ Publish the website in the given URL.
 ## DESIGN:
 Figma
 ## PROGRAM :
+``````
 .home-page {
   background-color: #f90a0a;
   display: flex;
@@ -359,6 +360,7 @@ Figma
   top: 112px;
   width: 122px;
 }
+``````
 ## OUTPUT:
 ![Alt text](<Screenshot 2023-12-29 134340.png>) 
 ![Alt text](<Screenshot 2023-12-29 134357.png>) 
